@@ -30,7 +30,7 @@ The example starter project for API test framework written in JS Mocha in a Babe
 
 # TOKEN creation
 
-In order to bind the token bearer with the tests, every user needs to go to the following link: https://gorest.co.in/consumer/login and log in to the site. The next step will prompt for access token, that needs to be copied and pasted in a .env file in the frameworks space in teh following fashion:
+In order to bind the token bearer with the tests, every user needs to go to the following link: https://gorest.co.in/consumer/login and log in to the site. The next step will prompt for access token, that needs to be copied and pasted in a .env file in the framework's space in the following fashion:
 USER_TOKEN = your token pasted here
 
 # How the tests are structured
@@ -43,14 +43,7 @@ You can follow the same method and have some fun with your project's APIs!!!
 
 # Signature
 
-The TCMK - DEPT® testing team:
-1. Ana Gjorova
-2. Ena Stankova
-3. Ivica Jovanovski
-4. Katerina Gjorgjievska
-5. Nebojsha Stamenkov
-6. Nikola Karajanov
-7. Zoran Jakjimoski
+The TCMK - DEPT® testing team
 
 # Liscence
 
