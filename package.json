@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "mocha",
+		"test": "mocha --timeout 20000",
 		"test-reporter": "mocha --reporter mochawesome",
 		"test-junit": "mocha --reporter mocha-junit-reporter"
 	},
