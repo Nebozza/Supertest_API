@@ -72,5 +72,6 @@ describe('API test examples', () => {
 		console.log('Status is ' + res.statusCode)
 		console.log(res.body)
 		expect(res.statusCode).to.equal(204)
+		expect(res.body).to.be.empty
 	})
 })
